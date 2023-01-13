@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="app_name">GCam Photos Preview</string>
+    <string name="app_name">Google Camera Preview</string>
     <string name="permission_denied">The app won\'t work properly without this permission</string>
     <string name="play_video">Play Video</string>
     <string name="edit">Edit</string>
